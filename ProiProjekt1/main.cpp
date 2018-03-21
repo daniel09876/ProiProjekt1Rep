@@ -11,7 +11,7 @@ int main ()
   cin>>surname;
   cout<<" Write pseudonym:"<<endl;
   cin>>pseudonym;
-  cout<<" Output:\n"<<name<<" \""<<pseudonym<<"\" "<<surname<<endl;
+  cout<<" Output:\n"<<name<<" "<<surname<<" \""<<pseudonym<<"\""<<endl;
   
   return 0;
 } 
